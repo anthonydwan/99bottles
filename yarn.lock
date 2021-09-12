@@ -1268,6 +1268,11 @@
   optionalDependencies:
     "source-map" "~0.6.1"
 
+"eslint-config-google@^0.14.0":
+  "integrity" "sha512-WsbX4WbjuMvTdeVL6+J3rK1RGhCTqjsFjX7UMSMgZiyxxaNLkoJENbrGExzERFeoTpGw3F3FypTiWAP9ZXzkEw=="
+  "resolved" "https://registry.npmjs.org/eslint-config-google/-/eslint-config-google-0.14.0.tgz"
+  "version" "0.14.0"
+
 "eslint-scope@^5.0.0":
   "integrity" "sha512-oYrhJW7S0bxAFDvWqzvMPRm6pcgcnWc4QnofCAqRTRfQC0JcwenzGglTtsLyIuuWFfkqDG9vz67cnttSd53djw=="
   "resolved" "https://registry.npmjs.org/eslint-scope/-/eslint-scope-5.0.0.tgz"
@@ -1288,7 +1293,7 @@
   "resolved" "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-1.1.0.tgz"
   "version" "1.1.0"
 
-"eslint@^6.8.0":
+"eslint@^6.8.0", "eslint@>=5.16.0":
   "integrity" "sha512-K+Iayyo2LtyYhDSYwz5D5QdWw0hCacNzyq1Y821Xna2xSJj7cijoLLYmLxTQgcgZ9mC61nryMy9S7GRbYpI5Ig=="
   "resolved" "https://registry.npmjs.org/eslint/-/eslint-6.8.0.tgz"
   "version" "6.8.0"
@@ -3000,6 +3005,11 @@
   "integrity" "sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ="
   "resolved" "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.1.2.tgz"
   "version" "1.1.2"
+
+"prettier@2.3.2":
+  "integrity" "sha512-lnJzDfJ66zkMy58OL5/NY5zp70S7Nz6KqcKkXYzn2tMVrNxvbqaBpg7H3qHaLxCJ5lNMsGuM8+ohS7cZrthdLQ=="
+  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.3.2.tgz"
+  "version" "2.3.2"
 
 "pretty-format@^26.0.1":
   "integrity" "sha512-SWxz6MbupT3ZSlL0Po4WF/KujhQaVehijR2blyRDCzk9e45EaYMVhMBn49fnRuHxtkSpXTes1GxNpVmH86Bxfw=="
